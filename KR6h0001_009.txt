@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:17.355394
+#+DATE: 2015-08-30 20:05:28.679564
 #+TITLE: 大方等大集經
 #+PROPERTY: CBETA_ID T13n0397
 #+PROPERTY: ID KR6h0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 397
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEI
 #+PROPERTY: LASTPB <pb:KR6h0001_T_009-0052c> 
 #+PROPERTY: JUAN 9
 ¶
-
- 《大方等大集經》卷第九¶
+《大方等大集經》卷第九¶
 ¶
 北涼天竺三藏曇無讖於姑臧譯¶
 海慧菩薩品第五之二¶

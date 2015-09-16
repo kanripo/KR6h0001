@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:17.569514
+#+DATE: 2015-08-30 20:05:28.898518
 #+TITLE: 大方等大集經
 #+PROPERTY: CBETA_ID T13n0397
 #+PROPERTY: ID KR6h0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 397
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEI
 #+PROPERTY: LASTPB <pb:KR6h0001_T_015-0100a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《大方等大集經》卷第十五¶
+《大方等大集經》卷第十五¶
 ¶
 北涼天竺三藏曇無讖譯¶
-虛空藏菩薩品第八之二¶
+虛空藏菩薩品第八八之二¶
 
 佛復告虛空藏言。善男子。何謂菩薩行功德¶
 與虛空等者。若菩薩聞佛無量法廣大如虛¶
