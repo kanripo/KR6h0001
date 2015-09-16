@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:17.532608
+#+DATE: 2015-08-30 20:05:52.385483
 #+TITLE: 大方等大集經
 #+PROPERTY: CBETA_ID T13n0397
 #+PROPERTY: ID KR6h0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 397
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0001_T_014-0093a> 
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 《大方等大集經》卷第十四¶
+《大方等大集經》卷第十四¶
 ¶
-北涼天竺三藏曇無讖譯¶
+北涼天竺三藏曇無讖譯譯¶
 
-8虛空藏品
-:PROPERTIES:
-:head: 虛空藏品第八之一所問品第一
-:END:
-¶
+虛空藏品第八之一所問品第一¶
 
 爾時婆伽婆。遊如來行處妙寶莊嚴堂上。如¶
 來威神大功德莊嚴眾相具足。因於本行佛¶
@@ -540,7 +535,7 @@
 無有疲惓。菩薩於無量劫。發勤精進無有疲¶
 厭。亦復如是。喻如虛空悉能容受一切諸色。¶
 然此虛空無有覆障。菩薩為容受一切眾生。¶
-發勤精進平等無礙亦復如是。喻如虛空能¶
+發勤精進平等無礙亦得如是。喻如虛空能¶
 生一切藥草叢林。然此虛空無有住處。菩薩
 <pb:KR6h0001_T_014-0098a>¶
 為增益一切眾生諸善根故發勤精進。無所¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:17.355394
+#+DATE: 2015-08-30 20:05:52.225702
 #+TITLE: 大方等大集經
 #+PROPERTY: CBETA_ID T13n0397
 #+PROPERTY: ID KR6h0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 397
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0001_T_009-0052c> 
 #+PROPERTY: JUAN 9
 ¶
-
- 《大方等大集經》卷第九¶
+《大方等大集經》卷第九¶
 ¶
 北涼天竺三藏曇無讖於姑臧譯¶
 海慧菩薩品第五之二¶
@@ -771,8 +770,8 @@
 法。以不見故不見有增不見有減。世尊。我如¶
 是見。將不誹謗如來說耶。是實見不。善男子。¶
 如是見者不謗如來。是真實見。說是法時。¶
-法慧菩薩及萬天人得無生忍。善男子汝知。¶
-爾時法慧菩薩豈異人乎。即我身是。是故¶
+海慧菩薩及萬天人得無生忍。善男子汝知。¶
+爾時海慧菩薩豈異人乎。即我身是。是故¶
 我於無量世中。所求正法今以付汝。爾時眾¶
 中有六萬億諸菩薩等。同共發聲白佛言。世¶
 尊。我等當共擁護正法受持廣說。佛言。善男¶

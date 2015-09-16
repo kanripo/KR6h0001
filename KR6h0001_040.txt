@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:18.407298
+#+DATE: 2015-08-30 20:05:53.212315
 #+TITLE: 大方等大集經
 #+PROPERTY: CBETA_ID T13n0397
 #+PROPERTY: ID KR6h0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 397
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0001_T_040-0266c> 
 #+PROPERTY: JUAN 40
 ¶
-
- 《大方等大集經》卷第四十¶
+《大方等大集經》卷第四十¶
 ¶
 隋天竺三藏那連提耶舍譯¶
 
-6護持品
-:PROPERTIES:
-:head: 日藏分護持品第六
-:END:
-¶
+日藏分護持品第六¶
 
 爾時一切諸天大王并其眷屬。一切龍王。一¶
 切夜叉王。阿修羅王。迦樓羅王。緊陀羅王。¶
@@ -202,13 +197,9 @@
 皆除盡遠塵離垢。於諸法中得法眼淨。九十¶
 二那由他眾生。於此法中發阿耨多羅三藐¶
 三菩提心。無量眾生亦得住於不退轉道。究¶
-竟阿耨多羅三藐三菩提。¶
+意阿耨多羅三藐三菩提。¶
 
-7佛現神通品
-:PROPERTIES:
-:head: 《大方等大集經》日藏分佛現神通品第七
-:END:
-¶
+《大方等大集經》佛現神通品第七¶
 
 爾時頻婆娑羅王。聞佛說此不淨觀法。一切¶
 大眾各欲護持。踊躍歡喜即從座起前白佛¶
