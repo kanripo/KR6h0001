@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:17.532608
+#+DATE: 2015-08-30 20:05:23.310368
 #+TITLE: 大方等大集經
 #+PROPERTY: CBETA_ID T13n0397
 #+PROPERTY: ID KR6h0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 397
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIU
 #+PROPERTY: LASTPB <pb:KR6h0001_T_014-0093a> 
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 《大方等大集經》卷第十四¶
+《大方等大集經》卷第十四¶
 ¶
-北涼天竺三藏曇無讖譯¶
+北涼天竺三藏曇無讖譯譯¶
 
-8虛空藏品
-:PROPERTIES:
-:head: 虛空藏品第八之一所問品第一
-:END:
-¶
+虛空藏品第八之一所問品第一¶
 
 爾時婆伽婆。遊如來行處妙寶莊嚴堂上。如¶
 來威神大功德莊嚴眾相具足。因於本行佛¶

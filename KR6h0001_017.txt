@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:17.641644
+#+DATE: 2015-08-30 20:05:23.400205
 #+TITLE: 大方等大集經
 #+PROPERTY: CBETA_ID T13n0397
 #+PROPERTY: ID KR6h0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 397
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIU
 #+PROPERTY: LASTPB <pb:KR6h0001_T_017-0114b> ¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 《大方等大集經》卷第十七¶
+《大方等大集經》卷第十七¶
 ¶
 北涼天竺三藏曇無讖譯¶
 虛空藏菩薩品第八之四¶
@@ -151,8 +150,7 @@
 乃至知一切法同菩提性。善男子。是為菩薩出¶
 世間尸羅波羅蜜。羼提波羅蜜。毘梨耶波羅¶
 蜜。禪波羅蜜亦如是。知色無常而行於慧。乃¶
-至知色如涅槃性而行於慧。知受想行無¶
-常而行於慧。乃至知識如涅槃性而行於慧。¶
+至知色如涅槃性而行於慧。知受想行無常而行於慧。乃至知識如涅槃性而行於慧。¶
 以慧平等故知識平等。以識平等故知慧¶
 平等。以慧識平等故知願平等。以願平等故¶
 知慧識平等。知慧識願平等故知菩提平等。¶
